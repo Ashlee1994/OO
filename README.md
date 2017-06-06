@@ -1,8 +1,8 @@
 # 面向对象分析与设计作业 #
 ## 作业目录 ##
-<h4><li>作业1：<a href="https://github.com/Ashlee1994/OO/blob/master/%E4%BD%9C%E4%B8%9A1/%E4%BD%9C%E4%B8%9A1%EF%BC%9A%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%9A%84OO%E7%89%B9%E6%80%A7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.doc">程序设计语言的OO特性调研报告</a></li></h4>
+<h4><li>作业1：<a href="https://github.com/Ashlee1994/OO/blob/master/%E4%BD%9C%E4%B8%9A1/%E4%BD%9C%E4%B8%9A1%EF%BC%9A%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%9A%84OO%E7%89%B9%E6%80%A7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf">程序设计语言的OO特性调研报告</a></li></h4>
 
-<h4><li>作业2：<a href="https://github.com/Ashlee1994/OO/blob/master/%E4%BD%9C%E4%B8%9A2/%E4%BD%9C%E4%B8%9A2%EF%BC%9A%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E4%B9%A6.doc">选课系统需求说明书</a></li></h4>
+<h4><li>作业2：<a href="https://github.com/Ashlee1994/OO/blob/master/%E4%BD%9C%E4%B8%9A2/%E4%BD%9C%E4%B8%9A2%EF%BC%9A%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf">选课系统需求说明书</a></li></h4>
 
 <h4><li>作业3：<a href="https://github.com/Ashlee1994/OO/blob/master/%E4%BD%9C%E4%B8%9A3/%E4%BD%9C%E4%B8%9A3%EF%BC%9A%E4%B8%9A%E5%8A%A1%E7%9B%AE%E6%A0%87%E4%B8%8E%E6%B6%89%E4%BC%97%E5%88%86%E6%9E%90.md">业务目标和涉众分析</a></li></h4>
 
