@@ -173,14 +173,14 @@ public class AdminServlet extends BaseServlet {
 	public String agreeRefund(HttpServletRequest req, HttpServletResponse resp)throws ServletException, IOException {
 		String oid = req.getParameter("oid");
 		
-		sellerOrderService.updateStatus(oid, 2);//设置状态为同意退货
-		orderService.updateOrderItemStatusBySellerOrder(oid,7); //设置状态为同意退货
+		sellerOrderService.updateStatus(oid, 7);//设置状态为同意退货
+		orderService.updateOrderItemStatusBySellerOrder(oid,2); //设置状态为同意退货
 		adminService.reduceSellerCredit(oid);
 		
 		req.setAttribute("code", "success");
 		req.setAttribute("msg", "仲裁结果：同意退货！");
 		return "f:/jsps/msg.jsp";
-	}
+	} 
 	//仲裁：拒绝退货
 		public String refuseRefund(HttpServletRequest req, HttpServletResponse resp)throws ServletException, IOException {
 			String oid = req.getParameter("oid");
